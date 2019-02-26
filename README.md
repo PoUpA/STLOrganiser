@@ -19,15 +19,16 @@ Certaines actions triviales de la vue sont directement traitées sans passer par
 
 ## MVC (fichiers)
 ### Modèles 
-FileDriveComboModel <-- Modèle représentant les disques durs système dans le combobox
-FileTreeModel <-- Modèle représentant l'arborescence pour le tree
-PrintInformations <-- Modèle des informations à sauvegarder en base
+- FileDriveComboModel <-- Modèle représentant les disques durs système dans le combobox
+- FileTreeModel <-- Modèle représentant l'arborescence pour le tree
+- PrintInformations <-- Modèle des informations à sauvegarder en base
+
 ### Vues
-STLOrganiser <-- Fenêtre principale composée de 2 panneaux
-ExplorerPanel <-- Fenêtre contenant toute la représentation pour la saisie des informations et affiche du rendu.
-FavoritesPanel <-- Fenêtre contenant l'affichage des informations saisies dans la base de donnée
+- STLOrganiser <-- Fenêtre principale composée de 2 panneaux
+- ExplorerPanel <-- Fenêtre contenant toute la représentation pour la saisie des informations et affiche du rendu.
+- FavoritesPanel <-- Fenêtre contenant l'affichage des informations saisies dans la base de donnée
 ### Controlleurs
-PrintInformationsController <-- gestion des relations modèles/vues/db
+- PrintInformationsController <-- gestion des relations modèles/vues/db
 
 
 ## Dépendances & inspirations
