@@ -42,6 +42,5 @@ Ce projet n'aurait pas put être réalisé sans :
 - https://github.com/cyanobacterium/STL-Parser-for-Java
 - https://github.com/cpedrinaci/STL-Loader
 - https://www.reddit.com/r/javaexamples/comments/37fdet/sqlite_database_access_with_a_swing_gui/
-- 
 
 
