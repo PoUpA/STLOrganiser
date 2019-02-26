@@ -30,8 +30,9 @@ FavoritesPanel <-- Fenêtre contenant l'affichage des informations saisies dans 
 PrintInformationsController <-- gestion des relations modèles/vues/db
 
 
-## Dépendances
+## Dépendances & inspirations
 Ce projet n'aurait pas put être réalisé sans :
+- https://github.com/ag88/stl-viewer
 - http://jogamp.org/
 - https://gouessej.wordpress.com/2012/08/01/java-3d-est-de-retour-java-3d-is-back
 - https://github.com/hharrison/java3d-core
@@ -40,4 +41,7 @@ Ce projet n'aurait pas put être réalisé sans :
 - http://jogamp.org/deployment/v2.3.2/fat/jogamp-fat.jar
 - https://github.com/cyanobacterium/STL-Parser-for-Java
 - https://github.com/cpedrinaci/STL-Loader
-- https://github.com/ag88/stl-viewer
+- https://www.reddit.com/r/javaexamples/comments/37fdet/sqlite_database_access_with_a_swing_gui/
+- 
+
+
