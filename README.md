@@ -10,6 +10,9 @@ Il est composés de deux panneaux, un panneau d'exploration et un panneau affich
 Le panneau d'exploration permet de sélectionner un fichier depuis l'arboresence. Une fois sélectionné le fichier sera rendu dans une fenêtre de visualisation et les champs de saisie des informations supplémentaires seront accessibles afin de sauvegarder les informations.
 
 ### Panneau Favoris
+![Panneau favoris](https://github.com/PoUpA/STLOrganiser/raw/master/favorites_panel.png)
+
+
 Ce panneau contient une table recensant les informations complémentaires sauvegardées
 
 ## Fonctionnement et explications
