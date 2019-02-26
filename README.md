@@ -1,7 +1,5 @@
 # STLOrganiser
 Outil d'organisation de fichiers d'impression 3D
-## Installation 
-Utiliser le projet netbeans existant ou compiler en incluant les librairies contenues dans libs
 ## Présentation 
 Cet outil permet de visualiser et de saisir des informations complémentaires liées à des fichiers d'impression [STL](http://en.wikipedia.org/wiki/STL_(file_format))
 Il est composés de deux panneaus, un panneau d'exploration et un panneau affichant les informations sauvées (favoris)
