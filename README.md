@@ -5,6 +5,8 @@ Cet outil permet de visualiser et de saisir des informations complémentaires li
 Il est composés de deux panneaux, un panneau d'exploration et un panneau affichant les informations sauvées (favoris)
 ### Panneau Explorateur
 ![Panneau explorer](https://github.com/PoUpA/STLOrganiser/raw/master/explorer_panel.png)
+
+
 Le panneau d'exploration permet de sélectionner un fichier depuis l'arboresence. Une fois sélectionné le fichier sera rendu dans une fenêtre de visualisation et les champs de saisie des informations supplémentaires seront accessibles afin de sauvegarder les informations.
 
 ### Panneau Favoris
